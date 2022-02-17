@@ -1,7 +1,7 @@
 {
   "name" : "UC Automatic Constraint Validation",
   "version" : "22.1",
-  "description" : "APEX Dynamic Action plug-in for automatic database-driven constraint validations. Instant format, limit, and constraint validations for SQL table/view-based APEX Forms and Interactive Grids. Inform your users about data integrity problems with clear explanations in real-time at the input fields.  Explain problems and suggest solutions.   For higher performance, a professional version is available. Please see Automatic Constraint Validation Pro.",
+  "description" : "Ever wish you could inform your users that there is a problem with the data they have entered, in real-time, as they are entering it and before they attempt to save?  UC Automatic Constraint Validation does exactly that.  The plug-in provides automatic, database-driven validations for SQL table/view-based APEX Forms and Interactive Grids. Save your users from the frustration of entering and correcting problematic data before they even realize it.  For faster performance, a professional version is available. Please see Automatic Constraint Validation Pro.",
   "keywords" : ["validation","constraint"],
   "homepage" : "https://www.plug-ins-pro.com/",
   "bugs" : {
